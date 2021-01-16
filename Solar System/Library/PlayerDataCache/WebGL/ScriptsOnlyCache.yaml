@@ -41,11 +41,11 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12618}
+      Script: {instanceID: 12624}
     - Class: 114
-      Script: {instanceID: 12896}
+      Script: {instanceID: 12902}
     - Class: 114
-      Script: {instanceID: 13408}
+      Script: {instanceID: 13414}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -498,4 +498,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SolarSystem.unity
-  playerPath: C:/Users/jerom/Documents/GitHub/solar-systems-unity3d/Solar System/Builds/Web
+  playerPath: C:/Users/jerom/Documents/GitHub/solar-systems-unity3d/Solar System/Builds/web2
